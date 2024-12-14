@@ -1,5 +1,3 @@
-**What is an Automatic Clicker?**
-
 An automatic clicker is a tool designed to simulate mouse clicks without requiring manual input. It’s widely used to automate repetitive tasks, such as clicking a button repeatedly or performing specific actions on a computer.
 
 **Brief History and Evolution**
