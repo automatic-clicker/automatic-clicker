@@ -1,3 +1,7 @@
+# Automatic Clicker - Fast and Efficient Click Automation Tool
+
+**Welcome to the Automatic Clicker repository!**  
+This project provides an easy-to-use and customizable automatic clicker for Android devices. Whether you need repetitive clicks for gaming or productivity, this tool has you covered.
 # Automatic Clicker: Automate Repetitive Tasks
 
 An automatic clicker is a tool designed to simulate mouse clicks without requiring manual input. It’s widely used to automate repetitive tasks, such as clicking a button repeatedly or performing specific actions on a computer.
